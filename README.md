@@ -87,3 +87,10 @@ I think we have most of the tutorials covered, so I'll be posting some more back
 1. [Automated Journalism - AI Applications at New York Times, Reuters, and Other Media Giants](https://www.techemergence.com/automated-journalism-applications/) - This article shows what other news organizations have done and can serve as inspiration for our projects. Many of these involve "automated journalism."
 2. [What News Writing Bots Mean For the Future of Journalism](https://www.wired.com/2017/02/robots-wrote-this-story/) - This article further explores the implications of having bots write articles for news orgs. It discusses how automated articles were written about elections and the Olympics using templates created by editors and Heliograf.
 3. [After years of testing, The Wall Street Journal has built a paywall that bends to the individual reader](http://www.niemanlab.org/2018/02/after-years-of-testing-the-wall-street-journal-has-built-a-paywall-that-bends-to-the-individual-reader/) - This article explores how the Wall Street Journal gives each reader a score and bends the paywall depending on how likely that person is to subscribe. It factors in their location, what they clicked on, their location, and more, and was probably developed through machine learning by comparing the traits of the people who subscribed versus those who did not. 
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
